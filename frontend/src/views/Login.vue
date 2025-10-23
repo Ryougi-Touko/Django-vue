@@ -134,7 +134,7 @@ watch(
     if (newVal) {
       // 用路由跳转项目内页面，动画会自然衔接
       router.push('/home'); // 替换为你的目标路由
-      
+
     }
   },
   { immediate: false }
